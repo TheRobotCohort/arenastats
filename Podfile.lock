@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (4.7.0)
+  - Alamofire-SwiftyJSON (3.0.0):
+    - Alamofire (~> 4.5)
+    - SwiftyJSON (~> 4.0.0)
+  - Charts (3.0.5):
+    - Charts/Core (= 3.0.5)
+  - Charts/Core (3.0.5)
+  - EggRating (0.1.5):
+    - RateView
+  - Google-Mobile-Ads-SDK (7.29.0)
+  - RateView (1.2)
+  - ReachabilitySwift (4.1.0)
+  - SwiftReorder (4.0.0)
+  - SwiftSpinner (1.5.0)
+  - SwiftyJSON (4.0.0)
+  - SwiftyStoreKit (0.13.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - Alamofire-SwiftyJSON
+  - Charts
+  - EggRating
+  - Google-Mobile-Ads-SDK
+  - ReachabilitySwift
+  - SwiftReorder (~> 4.0)
+  - SwiftSpinner
+  - SwiftyJSON (~> 4.0)
+  - SwiftyStoreKit
+
+SPEC CHECKSUMS:
+  Alamofire: 907e0a98eb68cdb7f9d1f541a563d6ac5dc77b25
+  Alamofire-SwiftyJSON: 2b3649d57dc7bb2880fb8b86f8bb969397666916
+  Charts: 45cdc985b764c838b35ee47eb1365d15735f6d1a
+  EggRating: 7f892b9b8da758689525caf9dcb1c9475f9d5139
+  Google-Mobile-Ads-SDK: 375bbb821b3df2106c37b74f6b0a97576ddc5f6b
+  RateView: d4d12e9bb76dc23a77a56f4e5c5fb530a3f3f998
+  ReachabilitySwift: 6849231cd4e06559f3b9ef4a97a0a0f96d41e09f
+  SwiftReorder: 5fc44b4f803d15d8b388412542d6fefb64d91816
+  SwiftSpinner: 4c058c7a1d6b444dd2e1d70988ead40783097133
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  SwiftyStoreKit: c36bb7841dd51a485ce5c38abf9e96fba988741f
+
+PODFILE CHECKSUM: 0125879c1b405fd950f0810ab225034c0dbfa54b
+
+COCOAPODS: 1.4.0

@@ -1,0 +1,29 @@
+#####
+# OS X temporary files that should never be committed
+.DS_Store
+*.swp
+*.lock
+profile
+
+####
+# Xcode temporary files that should never be committed
+*~.nib
+
+####
+# Xcode build files
+DerivedData/
+build/
+Builds/
+
+####
+# Other Xcode files
+profile
+*.hmap
+*.ipa
+
+####
+# CocoaPods
+Pods/
+!Podfile
+!Podfile.lock
+
